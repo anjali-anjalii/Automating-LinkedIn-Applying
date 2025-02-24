@@ -1,4 +1,4 @@
-**Automating LinkedIn Job Applications**
+**Automating LinkedIn Job Applications** <br>
 This project automates the process of applying for jobs on LinkedIn using Selenium. It automatically logs in, navigates through job listings, and applies for jobs that match the criteria, reducing manual effort and increasing efficiency.
 
 **Features**
